@@ -1,0 +1,10 @@
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.number {
+    padding-left:160px;
+}
